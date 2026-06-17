@@ -46,3 +46,11 @@ Rooshee Naktode
 ## Project Report
 
 [View Report](report.pdf)
+
+## Features
+
+- Bidirectional UART communication
+- Real-time data transfer
+- CP2102 USB-to-TTL interface
+- PuTTY terminal communication
+- Easy hardware setup
