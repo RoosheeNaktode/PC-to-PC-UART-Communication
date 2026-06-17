@@ -42,3 +42,7 @@ Implemented UART-based communication between two computers using CP2102 USB-to-T
 
 ## Author
 Rooshee Naktode
+
+## Project Report
+
+[View Report](report.pdf)
